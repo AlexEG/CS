@@ -1,1 +1,0 @@
-<a href="https://cs50.me/cs50x">https://cs50.me/cs50x</a>
